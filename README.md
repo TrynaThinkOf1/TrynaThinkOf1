@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a website that reports Seismological activity, precipitation, and temperature globally.<br>My main language is currently Python, but I'm in the process of learning Java and JavaScript.<br>If you have any ideas for a Project I should do, contact me, I really need things to fill my free time with.
+I'm currently working on a website that reports Seismological activity, precipitation, and temperature globally.<br>My main language is currently Python, but I'm in the process of learning Java and JavaScript.<br>If you have **any ideas** for a Project **I** should do, contact me, I **really need** things to fill my free time with.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TrynaThinkOf1&icon=1&color=5)](https://visitcount.itsvg.in)

@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm currently working on a website that reports Seismological activity, precipitation, and temperature globally.<br>My main language is currently Python, but I'm in the process of learning Java and JavaScript.<br>If you have any ideas for a Project I should do, contact me, I really need things to fill my free time with.
 
+---
+[![](https://visitcount.itsvg.in/api?id=TrynaThinkOf1&icon=1&color=5)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeviberlin) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28103956) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zeviberlin) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=)](https://leetcode.com/u/6O3K28S7G5/) 
@@ -17,8 +19,3 @@ I'm currently working on a website that reports Seismological activity, precipit
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TrynaThinkOf1&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=TrynaThinkOf1&icon=1&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

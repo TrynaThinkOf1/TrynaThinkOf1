@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a **Learning C++**.<br>My main language is currently Python<br>If you have **any ideas** for a Project **I** should do, contact me, I **really need** things to fill my free time with.
+I'm currently working on  **Learning to make APIs with Python**.<br>My main language is currently Python<br>If you have **any ideas** for a Project **I** should do, contact me, I **really need** things to fill my free time with.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TrynaThinkOf1&icon=1&color=5)](https://visitcount.itsvg.in)

@@ -1,3 +1,5 @@
+# IF THERE'S AN ISSUE WITH ONE OF MY PROJECTS, PLEASE [REPORT IT!](https://forms.gle/KpaMTaoHDpc1XhVy5)
+
 # 💫 About Me:
 I'm currently working on  **Learning to make APIs with Python**.<br>My main language is currently Python<br>If you have **any ideas** for a Project **I** should do, contact me, I **really need** things to fill my free time with.
 

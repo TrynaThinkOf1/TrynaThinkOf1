@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zevi</h1>
 <h3 align="center">A passionate full-stack developer from Atlanta</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trynathinkof1&label=Profile%20views&color=0e75b6&style=flat" alt="trynathinkof1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trynathinkof1&label=Profile%20views&color=0e75b6&style=flat" alt="trynathinkof1" /> </p> (learn to set up rate limiting, seriously)
 
 - 🔭 I’m currently working on **A proprietary project that is sort of a LinkedIn for people in STEM**
 

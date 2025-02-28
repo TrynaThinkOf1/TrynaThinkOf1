@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Zevi</h1>
 <h3 align="center">A passionate full-stack developer from Atlanta</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trynathinkof1&label=Profile%20views&color=0e75b6&style=flat" alt="trynathinkof1" /> </p> (learn to set up rate limiting, seriously)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trynathinkof1&label=Profile%20views&color=0e75b6&style=flat" alt="trynathinkof1" /> </p> 
+<h4>⬆️⬆️⬆️ Learn to set up Rate-Limiting (just use SlowAPI if you're working with Python or Bucket4j if you're working with Java</h4>
+&nbsp
 
 - 🔭 I’m currently working on **A proprietary project that is sort of a LinkedIn for people in STEM**
+  
+- 🌱 I’m currently learning **Java (Because I'm preparing to take AP Comp Sci A next semester)**
 
-- 🌱 I’m currently learning **Java (Because I'm preparing to take AP Comp Sci A next semester))**
-
-- 👨‍💻 All of my projects are available at (coming soon) [www.github.com/TrynaThinkOf1](www.github.com/TrynaThinkOf1)
+- 👨‍💻 All of my projects are available at [www.github.com/TrynaThinkOf1](www.github.com/TrynaThinkOf1)
 
 - 💬 Ask me about **My secret project (above)**
 

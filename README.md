@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Atlanta</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trynathinkof1&label=Profile%20views&color=0e75b6&style=flat" alt="trynathinkof1" /> </p> 
-<h4>⬆️⬆️⬆️ Learn to set up Rate-Limiting (just use SlowAPI if you're working with Python or Bucket4j if you're working with Java</h4>
+<h4>⬆️⬆️⬆️ Learn to set up Rate-Limiting (just use SlowAPI if you're working with Python or Bucket4j if you're working with Java)</h4>
 &nbsp
 
 - 🔭 I’m currently working on **A proprietary project that is sort of a LinkedIn for people in STEM**

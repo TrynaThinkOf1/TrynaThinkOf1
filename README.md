@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Everything C++ has to offer, especially OpenGL / other graphics libraries**
 
+- 📝 My most used text editor is **Micro (https://micro-editor.github.io/)** for C/C++, Java, and Others | My most used IDE is **PyCharm (https://www.jetbrains.com/pycharm/)** for Python
+
 - ⚡ Fun fact **The smell of rain is called "petrichor", it happens when the ground moistens before a rainstorm which causes certain bacteria to revitalize, and they produce an alcohol that carries the scent. Petrichor is the single smell that humans can smell the best (a few parts per trillion are detectable), this is why people can "smell when rain is coming"**
 
 <h3 align="left">Connect with me:</h3>

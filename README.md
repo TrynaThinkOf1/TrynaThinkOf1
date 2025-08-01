@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Zevi</h1>
-<h3 align="center">A fully committed Computer Systems Architect from the U.S</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trynathinkof1&label=Profile%20views&color=0e75b6&style=flat" alt="trynathinkof1" /> </p>
 
